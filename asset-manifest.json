@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InstaTest/static/css/main.8b96a3ef.chunk.css",
+    "main.js": "/InstaTest/static/js/main.a92f914b.chunk.js",
+    "main.js.map": "/InstaTest/static/js/main.a92f914b.chunk.js.map",
+    "runtime-main.js": "/InstaTest/static/js/runtime-main.34c8ca01.js",
+    "runtime-main.js.map": "/InstaTest/static/js/runtime-main.34c8ca01.js.map",
+    "static/js/2.377c5c6d.chunk.js": "/InstaTest/static/js/2.377c5c6d.chunk.js",
+    "static/js/2.377c5c6d.chunk.js.map": "/InstaTest/static/js/2.377c5c6d.chunk.js.map",
+    "static/js/3.9e8ad115.chunk.js": "/InstaTest/static/js/3.9e8ad115.chunk.js",
+    "static/js/3.9e8ad115.chunk.js.map": "/InstaTest/static/js/3.9e8ad115.chunk.js.map",
+    "index.html": "/InstaTest/index.html",
+    "static/css/main.8b96a3ef.chunk.css.map": "/InstaTest/static/css/main.8b96a3ef.chunk.css.map",
+    "static/js/2.377c5c6d.chunk.js.LICENSE.txt": "/InstaTest/static/js/2.377c5c6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c8ca01.js",
+    "static/js/2.377c5c6d.chunk.js",
+    "static/css/main.8b96a3ef.chunk.css",
+    "static/js/main.a92f914b.chunk.js"
+  ]
+}
