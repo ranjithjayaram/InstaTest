@@ -9,7 +9,7 @@ const Sidebar = props => (
 				<label>Employer Profile</label>
 			</li>
 			<li>
-				<img src="/images/onboard-car.png"></img>
+				<img src="/images/onboard-car.png" ></img>
 				<label>Onboard Your Vehicles</label>
 			</li>
 			<li>
